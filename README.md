@@ -2,7 +2,7 @@
 
 Для любителей ручных манипуляций.
 
-Открывает документ «data» по адресу: Х:\хххххх\Roberts Space Industries\StarCitizen\LIVE\data
+Открываем папку «data» по адресу: Х:\хххххх\Roberts Space Industries\StarCitizen\LIVE\data
 Создаем в ней маркер «Localization»(без кавычек)
 Открываем ее
 Создаем в ней папку «korean_(south_korea)»(без кавычек)
