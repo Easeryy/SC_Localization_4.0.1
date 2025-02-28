@@ -1,14 +1,14 @@
-Установка локатора просто.
+Установка локализатора проста.
 
 Для любителей ручных манипуляций.
 
 Открываем папку «data» по адресу: Х:\хххххх\Roberts Space Industries\StarCitizen\LIVE\data
-Создаем в ней маркер «Localization»(без кавычек)
+Создаем в ней папку «Localization»(без кавычек)
 Открываем ее
 Создаем в ней папку «korean_(south_korea)»(без кавычек)
 Открываем ее
 Вставляем файл «global.ini»
-Открывает документ по адресу: Х:\ хххххх\Roberts Space Industries\StarCitizen\LIVE
+Открывает папку по адресу: Х:\ хххххх\Roberts Space Industries\StarCitizen\LIVE
 Вставляем туда файл «user.cfg» Все тоже самое но с сайта Star Citizen на сайте
 Все пожелания и предложения Discord
 
